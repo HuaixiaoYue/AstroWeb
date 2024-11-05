@@ -84,4 +84,11 @@ html {
 
 }
 
+html.dark {
+  background-color: #101015 ;
+  color: #fff;
+}
 
+.dark .nav-links a {
+  color: #fff;
+}
